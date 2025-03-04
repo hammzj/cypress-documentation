@@ -1110,8 +1110,14 @@
           "link":"https://github.com/testervippro/cypress-sql",
           "keywords":["sql", "database", "test", "commands", "oracle"],
           "badge":"community"
+        },
+        {
+          "name": "cypress-load-balancer",
+          "description": "A simple load balancer for Cypress tests.",
+          "link": "https://github.com/hammzj/cypress-load-balancer/",
+          "keywords": ["load-balancer", "ci-cd"],
+          "badge": "community"
         }
-
       ]
     },
     {
